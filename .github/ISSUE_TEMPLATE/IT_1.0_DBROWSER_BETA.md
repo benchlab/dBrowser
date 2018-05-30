@@ -1,3 +1,5 @@
+# Issue Template For dBrowser 1.0 BETA
+
 This is:
 
 - [ ] dBrowser Bug
