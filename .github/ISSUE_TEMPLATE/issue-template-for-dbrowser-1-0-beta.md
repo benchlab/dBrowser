@@ -4,8 +4,6 @@ about: Issue template for tracking bugs, feature requests and other issues.
 
 ---
 
-# Issue Template For dBrowser 1.0 BETA
-
 This is:
 
 - [ ] dBrowser Bug
